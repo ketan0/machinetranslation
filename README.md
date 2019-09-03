@@ -2,7 +2,9 @@
 
 Bayesian machine translation project I created as a high school CS project in 2016. Refer to [smtinfosheet](smtinfosheet.pdf) for the info on how this project functions. Model was trained on a Europarl corpus containing side-by-side transcripts of UN proceedings in German and English. 
 
-## Requirements: JAVA SE 6, DrJava (or similar Java IDE to run code)
+## Requirements: 
+
+JAVA SE 6, DrJava (or similar Java IDE to run code)
 
 ## Setup
 
