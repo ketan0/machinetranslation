@@ -1,6 +1,8 @@
 # Statistical Machine Translation
 
-Bayesian machine translation project I created as a high school CS project in 2016. Refer to [smtinfosheet](smtinfosheet.pdf) for the info on how this project functions. Model was trained on a Europarl corpus containing side-by-side transcripts of UN proceedings in German and English. 
+NOTE: This code is from a high school computer science project in 2016--not reflective of my current coding style standards.
+
+Bayesian machine translation project . Refer to [smtinfosheet](smtinfosheet.pdf) for the info on how this project functions. Model was trained on a Europarl corpus containing side-by-side transcripts of UN proceedings in German and English. 
 
 ## Requirements: 
 
