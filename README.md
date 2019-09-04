@@ -10,8 +10,9 @@ JAVA SE 6, DrJava (or similar Java IDE to run code)
 
 ## Setup
 
-In order to run this project, download the pre-trained models from [this Google Drive folder](https://drive.google.com/drive/folders/10ZZ6L2dE-Cgl6onc1wOZHAgT2GLTvxDQ?usp=sharing) and place them in the same folder as the code files for this project; run Main.java to begin deserializing the models. This takes ~20 minutes.
+In order to run this project, download the pre-trained models from [this Google Drive folder](https://drive.google.com/drive/folders/10ZZ6L2dE-Cgl6onc1wOZHAgT2GLTvxDQ?usp=sharing) and place the models in the same folder as the code files for this project; run Main.java to begin deserializing the models. This takes ~20 minutes.
 
+## Demos
 This project supports simple translations, as such:
 ![translation window](demos/translation.png)
 
